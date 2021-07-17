@@ -1,0 +1,118 @@
+  .titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px; 
+    font-size: 30px;
+    font-weight: bolder;
+    display:flex;
+    position: relative;
+    top: 55px;
+    left: 0px
+      
+   }
+
+   .paragrafo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-stretch: narrower;
+    line-height: 25px;    
+    position: relative;
+    top: 75px;
+    left: 0px
+   }
+  
+  .conteiner {
+    background-color: #ffffff;
+    display:flex;
+    height: 420px;
+    position: relative;
+    top: 250px;
+    left: 350px;
+ 
+  }
+  
+  #items1 {
+   background-color: #E28525;
+   width: 250px;
+   border-top-left-radius:0.5em 0.5em;
+   border-bottom-left-radius: 0.5em 0.5em; 
+   padding-left: 35px;
+   padding-right: 35px;
+   letter-spacing: 0.2px;
+   line-height: 60px;
+   color: #F1EBE7
+  
+  }
+  
+  #items2 {
+   background-color: #016972;
+   width: 250px;
+   padding-left: 35px;
+   padding-right: 35px;
+   letter-spacing: 0.2px;
+   line-height: 60px;
+   color: #F1EBE7
+  }
+  
+  #items3 {
+   background-color: #033F3F;
+   width: 250px;
+   border-top-right-radius:0.5em 0.5em;
+   border-bottom-right-radius: 0.5em 0.5em;
+   padding-left: 35px;
+   padding-right: 35px;
+   letter-spacing: 0.2px;
+   line-height: 60px;
+   color: #F1EBE7 
+  }
+  
+  .botao {
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: center;
+    border-width: 0px;
+    height: 40px;
+    font-size: 12px;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #F1F1F1;
+    display: flex;  position: relative;
+    top: 110px;
+    left: 0px
+
+  }
+  .botao__1 {
+    color: #E28525;
+  }
+  
+  .botao__2 {
+    color: #016972;
+  }
+  
+  .botao__3 {
+    color: #033F3F;
+  }
+  
+  .imagem {
+    position: relative;
+    background-color: #B46B1E;
+    left: 0px;
+    top: 20px;
+    height: 33px;
+    width: 33px;
+    border-radius: 50%;
+  
+      
+  } 
+  .img__car1 {
+    background-color: #B46B1E;
+   
+  }
+   
+  .img__car2 {
+    background-color: #03535A;
+  }
+  
+  .img__car3 {
+    background-color: #043232;
+  }
